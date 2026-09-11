@@ -19,4 +19,5 @@ Continue with [WLED setup](wled-setup.md).
 
 The browser installer does not suit every ESP32 board or computer. If it does
 not work for your setup, use the method recommended for your board and the
-[official WLED installation guide](https://kno.wled.ge/basics/install-binary/).
+[official WLED installation guide](https://kno.wled.ge/basics/install-binary/),
+or consult your preferred AI.
