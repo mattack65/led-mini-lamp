@@ -22,9 +22,26 @@ settings. They are useful for switching between favourite moods with one tap.
 Select a saved preset at any time to restore it. You can also create a
 playlist to cycle through multiple presets automatically.
 
+## On and off presets
+
+Presets can also run a command rather than save a lighting look. In the
+**Presets** tab, choose **Create Preset**, turn off **Use current state**, and
+enter one of these API commands:
+
+| Command | Result |
+| ------- | ------ |
+| `T=1` | Turn the lamp on, restoring the last-used look. |
+| `T=0` | Turn the lamp off. |
+| `T=2` | Toggle the lamp on or off. |
+
+Save these with clear names such as `Lamp on` and `Lamp off`. They can be
+selected manually, used in playlists, or triggered by a schedule.
+
 ## Turn on at sunset
 
-1. Create and save the preset you want the lamp to use at sunset.
+1. Create and save the preset you want the lamp to use at sunset. To simply
+   restore the last-used look, create a `T=1` on preset instead. Also create a
+   `T=0` off preset for the time you want the lamp to switch off.
 2. Open **Config → Time & Macros**.
 3. Set the correct time zone and enable time synchronisation (NTP).
 4. Set your location so WLED can calculate local sunrise and sunset. When
@@ -33,7 +50,8 @@ playlist to cycle through multiple presets automatically.
    preset, choose the days of the week, and save.
 
 Use the minutes field to make the lamp switch on before or after sunset. Add a
-second timer with an off preset if you also want it to turn itself off later.
+second timer for sunrise, sunset, or a regular time and select the `T=0` off
+preset to switch it off automatically.
 
 ## Other useful WLED features
 
