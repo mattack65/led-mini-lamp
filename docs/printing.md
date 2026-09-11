@@ -8,12 +8,18 @@ recipe. Use the STL if your slicer does not support the 3MF.
 This is an early guide. Exact material and printer-setting notes will be added
 as the parts are documented.
 
+## Material
+
+All supplied print settings are for **PLA** and were tested with **Prusament
+PLA**. Print the diffusors in **white PLA** so they work as intended. For the
+core structure, base, top plug, and clip, choose any PLA colour you like.
+
 ## What to print
 
 ### Diffusors — choose one or more
 
 The diffusor is the visible shade of the lamp. Pick any design below; you can
-print more than one to swap the appearance of the lamp later.
+print more than one to swap the appearance of the lamp later. Use **white PLA**.
 
 Diffusors need their own recipe: do not print them with the standard-part
 settings. Vase mode and the controlled bottom thickness are important, so open
@@ -85,5 +91,4 @@ dedicated 3MF project when possible.
    within your printer's build volume.
 3. Apply the group-specific settings above if your slicer does not load them
    from the 3MF project.
-4. Select filament compatible with the part's eventual purpose; material
-   recommendations will be added alongside the final print settings.
+4. Use PLA as specified in the material notes above.
