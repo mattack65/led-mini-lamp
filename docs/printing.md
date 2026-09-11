@@ -10,9 +10,9 @@ as the parts are documented.
 
 ## What to print
 
-### Diffusers — choose one or more
+### Diffusors — choose one or more
 
-The diffuser is the visible shade of the lamp. Pick any design below; you can
+The diffusor is the visible shade of the lamp. Pick any design below; you can
 print more than one to swap the appearance of the lamp later.
 
 **Print settings**
