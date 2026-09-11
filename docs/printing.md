@@ -15,6 +15,10 @@ as the parts are documented.
 The diffusor is the visible shade of the lamp. Pick any design below; you can
 print more than one to swap the appearance of the lamp later.
 
+Diffusors need their own recipe: do not print them with the standard-part
+settings. Vase mode and the controlled bottom thickness are important, so open
+the dedicated 3MF project when possible.
+
 **Print settings**
 
 - Recommended layer height: **0.20 mm**
@@ -31,7 +35,7 @@ print more than one to swap the appearance of the lamp later.
 | Single sinusoidal bulge | [STL](../print-files/stl/lamp_diffusor_single_sinusoidal_bulge.stl) | [3MF](../print-files/3mf/lamp_diffusor_single_sinusoidal_bulge.3mf) |
 | Sinusoidal 12 bubbles | [STL](../print-files/stl/lamp_diffusor_sinusoidal_12_bubbles.stl) | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_12_bubbles.3mf) |
 | Sinusoidal 36 wave ×3 | [STL](../print-files/stl/lamp_diffusor_sinusoidal_36_wave_x3.stl) | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_36_wave_x3.3mf) |
-| Starburst | [STL](../print-files/stl/lamp_diffusor_starburst.stl) | — |
+| Starburst | [STL](../print-files/stl/lamp_diffusor_starburst.stl) | [3MF](../print-files/3mf/lamp_diffusor_starburst.3mf) |
 
 ### Core structure — print 3
 
@@ -60,10 +64,10 @@ Print one of each of these standard parts.
 | Lamp base | [STL](../print-files/stl/lamp_base.stl) | [3MF](../print-files/3mf/lamp_base.3mf) |
 | Top plug | [STL](../print-files/stl/lamp_top_plug.stl) | [3MF](../print-files/3mf/lamp_top_plug.3mf) |
 
-### Clip unit — special print settings
+### Clip unit
 
-The clip needs its own print recipe; do not assume the settings used for the
-standard parts are appropriate. Open the dedicated 3MF project when possible.
+The clip uses a finer, stronger print recipe than the standard parts. Open the
+dedicated 3MF project when possible.
 
 **Print settings**
 
