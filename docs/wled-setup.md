@@ -32,7 +32,6 @@ Open **Config → LED & Hardware** and configure the LED output as follows:
 | Setting | Value |
 | --- | --- |
 | LED type | WS281x |
-| Colour order | GRB |
 | LED count | 32 |
 | Skip first LEDs | 1 |
 | mA/LED | 35 mA (Eco WS2812) |
