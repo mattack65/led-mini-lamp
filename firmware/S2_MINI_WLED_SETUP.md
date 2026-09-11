@@ -16,33 +16,6 @@ This records the working setup for the WEMOS/LOLIN S2 Mini used in the mini LED 
 
 Connect to the pixel's `DIN`, not `DOUT`. The controller and pixel must share ground.
 
-## Test firmware
-
-The red-pixel test is in `s2-red-test/`.
-
-Build it with:
-
-```powershell
-cd "firmware\s2-red-test"
-pio run
-```
-
-Upload it with the board's current COM port:
-
-```powershell
-pio run --target upload --upload-port COMx
-```
-
-The working PlatformIO environment is:
-
-```ini
-platform = espressif32@6.12.0
-board = lolin_s2_mini
-framework = arduino
-```
-
-The old `espressif32@5.2.0` platform failed while resolving an obsolete RISC-V toolchain package. PlatformIO also needed the `intelhex` Python package before it could generate the S2 bootloader image.
-
 ## Why the COM port changes
 
 The ESP32-S2 uses native USB. Windows can assign a different COM number to each USB mode:
@@ -139,4 +112,4 @@ After installation, the pixel may show WLED's default yellow/orange colour. That
 8. Set LED count to `1`.
 9. Use colour order `GRB` if colour testing shows swapped channels.
 
-The red test should be run before WLED installation. It verifies VBUS, ground, GPIO16, `DIN`, and the pixel independently of Wi-Fi and WLED configuration.
+If the pixel does not behave as expected after setup, first recheck VBUS, ground, GPIO16, and the connection to `DIN`.
