@@ -84,3 +84,18 @@ the dedicated 3MF project when possible.
 | Sinusoidal 12 bubbles | [STL](../print-files/stl/lamp_diffusor_sinusoidal_12_bubbles.stl) | 103.4 × 103.4 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_12_bubbles.3mf) |
 | Sinusoidal 36 wave ×3 | [STL](../print-files/stl/lamp_diffusor_sinusoidal_36_wave_x3.stl) | 104.1 × 104.1 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_36_wave_x3.3mf) |
 | Starburst | [STL](../print-files/stl/lamp_diffusor_starburst.stl) | 106.2 × 106.2 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_starburst.3mf) |
+
+## Estimated print resources
+
+Measured on a **Prusa Core One L** using the supplied 3MF projects. The total
+below is for one lamp with the **Bulges diffusor** and **three core structures**.
+Actual values vary with filament, slicer, and printer.
+
+| Part | Filament weight | Filament length | Print time | Filament cost |
+| --- | ---: | ---: | ---: | ---: |
+| Core structures (3) | 35.25 g | 11.80 m | 55 min | €0.99 |
+| Top plug | 17.60 g | 5.90 m | 25 min | €0.49 |
+| Clip unit | 1.93 g | 0.65 m | 11 min | €0.05 |
+| Lamp base | 27.84 g | 9.34 m | 27 min | €0.78 |
+| Diffusor: Bulges | 18.08 g | 6.06 m | 49 min | €0.51 |
+| **Total** | **100.70 g** | **33.75 m** | **2 h 47 min** | **€2.82** |
