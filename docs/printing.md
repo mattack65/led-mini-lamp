@@ -15,6 +15,14 @@ as the parts are documented.
 The diffuser is the visible shade of the lamp. Pick any design below; you can
 print more than one to swap the appearance of the lamp later.
 
+**Print settings**
+
+- Recommended layer height: **0.20 mm**
+- Enable **vase mode**.
+- Use enough bottom layers to make a base **about 1.4–1.5 mm thick**. At
+  0.20 mm layer height, this is **7 bottom layers**. Adjust the layer count if
+  you use a different layer height.
+
 | Design | STL | 3MF |
 | --- | --- | --- |
 | Bulges | [STL](../print-files/stl/lamp_diffusor_bulges.stl) | [3MF](../print-files/3mf/lamp_diffusor_bulges.3mf) |
@@ -30,12 +38,22 @@ print more than one to swap the appearance of the lamp later.
 Print **three** copies of the core structure. These are structural parts, so
 use the matching 3MF project where possible.
 
+**Print settings**
+
+- **0.28 mm draft** layer height is suitable; this part is not critical.
+- Use **15% infill or more**.
+
 - [STL: `lamp_core_structure.stl`](../print-files/stl/lamp_core_structure.stl)
 - [3MF: `lamp_core_structure.3mf`](../print-files/3mf/lamp_core_structure.3mf)
 
 ### Standard parts
 
 Print one of each of these standard parts.
+
+**Print settings**
+
+- **0.28 mm draft** layer height is suitable; these parts are not critical.
+- Use **15% infill or more**.
 
 | Part | STL | 3MF |
 | --- | --- | --- |
@@ -46,8 +64,12 @@ Print one of each of these standard parts.
 
 The clip needs its own print recipe; do not assume the settings used for the
 standard parts are appropriate. Open the dedicated 3MF project when possible.
-Specific material and slicer settings will be recorded here as the recipe is
-written up.
+
+**Print settings**
+
+- Layer height: **0.10 mm**
+- **4 perimeters**
+- **100% infill**
 
 - [STL: `lamp_clip_unit.stl`](../print-files/stl/lamp_clip_unit.stl)
 - [3MF: `lamp_clip_unit.3mf`](../print-files/3mf/lamp_clip_unit.3mf)
@@ -57,7 +79,7 @@ written up.
 1. Start with the corresponding 3MF file if your slicer supports it.
 2. Check that the part remains in the supplied orientation and that it fits
    within your printer's build volume.
-3. Select filament compatible with the part's eventual purpose; material
+3. Apply the group-specific settings above if your slicer does not load them
+   from the 3MF project.
+4. Select filament compatible with the part's eventual purpose; material
    recommendations will be added alongside the final print settings.
-4. Do not print the clip until its special settings have been confirmed in this
-   guide.
