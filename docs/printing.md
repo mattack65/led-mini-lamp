@@ -18,8 +18,7 @@ core structure, base, top plug, and clip, choose any PLA colour you like.
 
 ### Core structure — print 3
 
-Print **three** copies of the core structure. These are structural parts, so
-use the matching 3MF project where possible.
+Print **three** copies of the core structure.
 
 **Print settings**
 
