@@ -85,11 +85,3 @@ the dedicated 3MF project when possible.
 | Sinusoidal 12 bubbles | [STL](../print-files/stl/lamp_diffusor_sinusoidal_12_bubbles.stl) | 103.4 × 103.4 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_12_bubbles.3mf) |
 | Sinusoidal 36 wave ×3 | [STL](../print-files/stl/lamp_diffusor_sinusoidal_36_wave_x3.stl) | 104.1 × 104.1 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_36_wave_x3.3mf) |
 | Starburst | [STL](../print-files/stl/lamp_diffusor_starburst.stl) | 106.2 × 106.2 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_starburst.3mf) |
-
-## Before slicing
-
-1. Choose the STL or 3MF file for the part you want to print.
-2. Confirm that its listed print volume fits within your printer's build
-   volume.
-3. Apply the group-specific settings above.
-4. Use PLA as specified in the material notes above.
