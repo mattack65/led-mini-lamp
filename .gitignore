@@ -1,0 +1,5 @@
+work/
+.pio/
+.vscode/
+*.elf
+*.map
