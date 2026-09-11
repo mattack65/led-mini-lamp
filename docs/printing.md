@@ -88,7 +88,7 @@ the dedicated 3MF project when possible.
 ## Estimated print resources
 
 Measured on a **Prusa Core One L** using the supplied 3MF projects. The total
-below is for one lamp with the **Bulges diffusor** and **three core structures**.
+below is for one lamp with **one diffusor** and **three core structures**.
 Filament costs use **€24.50/kg**. Actual values vary with filament, slicer,
 and printer.
 
@@ -98,5 +98,5 @@ and printer.
 | Top plug | 17.60 g | 5.90 m | 25 min | €0.43 |
 | Clip unit | 1.93 g | 0.65 m | 11 min | €0.05 |
 | Lamp base | 27.84 g | 9.34 m | 27 min | €0.68 |
-| Diffusor: Bulges | 18.08 g | 6.06 m | 49 min | €0.44 |
+| Diffusor (one) | 18.08 g | 6.06 m | 49 min | €0.44 |
 | **Total** | **100.70 g** | **33.75 m** | **2 h 47 min** | **€2.47** |

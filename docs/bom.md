@@ -12,6 +12,9 @@ prices and availability vary by destination and over time.
 | Hook-up wire | 3 lengths | AWG22; about 7 cm each | ~€0.10 | Enough for the maximum LED current of 1.12 A. One wire each for 5 V, GND, and data. |
 | Double-sided tape | About 2 cm | Suitable for electronics | ~€0.05 | Holds the ESP32 to the base. |
 | Glue | A few drops | Suitable for the printed parts | ~€0.05 | Glues the clip unit into the top plug. |
+| Solder | As needed | Electronics solder | ~€0.05 | The LED strip connects to the ESP32 with six solder joints. |
+| 3D-printed parts | 1 set | Base, top plug, clip unit, three core structures, and one diffusor | ~€2.47 | See the [print files](../print-files/) and [print settings](printing.md). |
+| **Total material cost** | **1 lamp** | **All parts above** | **Under €7.32** | Excludes the USB cable, power adapter, and soldering iron. |
 
 ## Power requirement
 
@@ -27,14 +30,3 @@ the BOM: most builders already have a suitable set.
 | Tool | Quantity | Estimated cost | Notes |
 | --- | ---: | ---: | --- |
 | Soldering iron | 1 | Not included | Suitable for electronics soldering. |
-| Solder | As needed | ~€0.05 | The LED strip connects to the ESP32 with six solder joints. |
-
-## Estimated cost per lamp
-
-This example uses the **Bulges diffusor**; other diffusors have different
-filament use. It excludes the USB cable, power adapter, and soldering iron.
-
-| Item | Estimated cost | Notes |
-| --- | ---: | --- |
-| 3D-printed parts | ~€2.47 | 100.70 g of PLA; based on the Bulges-diffusor print estimate. |
-| **Total material cost** | **Under €7.32** | Includes the ESP32, LED strip, wire, tape, glue, solder, and printed parts. |
