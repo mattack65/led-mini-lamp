@@ -1,7 +1,7 @@
 # WLED setup
 
-Install WLED on the ESP32 using your preferred method. This page covers only
-the lamp-specific configuration after WLED is running.
+First [install WLED firmware onto the ESP32](install-wled.md). This page covers
+only the lamp-specific configuration after WLED is running.
 
 ## App and first connection
 
@@ -13,10 +13,11 @@ done in a web browser.
 1. Power the lamp through the ESP32 USB port.
 2. On a phone or computer, connect to the temporary Wi-Fi network named
    `WLED-AP`. The default password is `wled1234`.
-3. Open [wled.me](http://wled.me) or `http://4.3.2.1`.
-4. Open **Config → WiFi Setup**.
+3. The WLED app usually opens automatically. If it does not, open the app
+   manually. As a backup, open [wled.me](http://wled.me) or `http://4.3.2.1`.
+4. Open **Config → WiFi & Network**.
 5. Enter the name and password of your home Wi-Fi network.
-6. Set the **mDNS address / hostname** to the name you want for the lamp, for
+6. Optional: set the **mDNS address / hostname** to the name you want for the lamp, for
    example `led-mini-lamp`. It will then be available at
    `http://led-mini-lamp.local` on most home networks.
 7. Save the settings. The lamp restarts and joins your home Wi-Fi network.
@@ -26,18 +27,16 @@ the lamp automatically; select it to control it.
 
 ## LED and hardware settings
 
-Open **Config → LED Preferences** and configure the LED output as follows:
+Open **Config → LED & Hardware** and configure the LED output as follows:
 
 | Setting | Value |
 | --- | --- |
 | LED type | WS281x |
-| Data GPIO | The GPIO pin wired to the LED strip's data input. The tested LOLIN S2 Mini build uses GPIO16. |
 | Colour order | GRB |
 | LED count | 32 |
 | Skip first LEDs | 1 |
-| Automatic brightness limiter | Enabled |
+| mA/LED | 35 mA (Eco WS2812) |
 | Maximum PSU current | 1200 mA |
-| LED voltage | 5 V default (55 mA) |
 
 The physical strip has 35 LEDs. The first LED and the final two LEDs are only
 used to attach the strip to the structure, so WLED skips the first and controls
