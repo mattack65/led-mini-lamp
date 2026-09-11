@@ -16,33 +16,6 @@ core structure, base, top plug, and clip, choose any PLA colour you like.
 
 ## What to print
 
-### Diffusors — choose one or more
-
-The diffusor is the visible shade of the lamp. Pick any design below; you can
-print more than one to swap the appearance of the lamp later. Use **white PLA**.
-
-Diffusors need their own recipe: do not print them with the standard-part
-settings. Vase mode and the controlled bottom thickness are important, so open
-the dedicated 3MF project when possible.
-
-**Print settings**
-
-- Recommended layer height: **0.20 mm**
-- Enable **vase mode**.
-- Use enough bottom layers to make a base **about 1.4–1.5 mm thick**. At
-  0.20 mm layer height, this is **7 bottom layers**. Adjust the layer count if
-  you use a different layer height.
-
-| Design | STL | 3MF |
-| --- | --- | --- |
-| Bulges | [STL](../print-files/stl/lamp_diffusor_bulges.stl) | [3MF](../print-files/3mf/lamp_diffusor_bulges.3mf) |
-| Pumpkin | [STL](../print-files/stl/lamp_diffusor_pumpkin.stl) | [3MF](../print-files/3mf/lamp_diffusor_pumpkin.3mf) |
-| Seven ripple | [STL](../print-files/stl/lamp_diffusor_seven_ripple.stl) | [3MF](../print-files/3mf/lamp_diffusor_seven_ripple.3mf) |
-| Single sinusoidal bulge | [STL](../print-files/stl/lamp_diffusor_single_sinusoidal_bulge.stl) | [3MF](../print-files/3mf/lamp_diffusor_single_sinusoidal_bulge.3mf) |
-| Sinusoidal 12 bubbles | [STL](../print-files/stl/lamp_diffusor_sinusoidal_12_bubbles.stl) | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_12_bubbles.3mf) |
-| Sinusoidal 36 wave ×3 | [STL](../print-files/stl/lamp_diffusor_sinusoidal_36_wave_x3.stl) | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_36_wave_x3.3mf) |
-| Starburst | [STL](../print-files/stl/lamp_diffusor_starburst.stl) | [3MF](../print-files/3mf/lamp_diffusor_starburst.3mf) |
-
 ### Core structure — print 3
 
 Print **three** copies of the core structure. These are structural parts, so
@@ -83,6 +56,33 @@ dedicated 3MF project when possible.
 
 - [STL: `lamp_clip_unit.stl`](../print-files/stl/lamp_clip_unit.stl)
 - [3MF: `lamp_clip_unit.3mf`](../print-files/3mf/lamp_clip_unit.3mf)
+
+### Diffusors — choose one or more
+
+The diffusor is the visible shade of the lamp. Pick any design below; you can
+print more than one to swap the appearance of the lamp later. Use **white PLA**.
+
+Diffusors need their own recipe: do not print them with the standard-part
+settings. Vase mode and the controlled bottom thickness are important, so open
+the dedicated 3MF project when possible.
+
+**Print settings**
+
+- Recommended layer height: **0.20 mm**
+- Enable **vase mode**.
+- Use enough bottom layers to make a base **about 1.4–1.5 mm thick**. At
+  0.20 mm layer height, this is **7 bottom layers**. Adjust the layer count if
+  you use a different layer height.
+
+| Design | STL | 3MF |
+| --- | --- | --- |
+| Bulges | [STL](../print-files/stl/lamp_diffusor_bulges.stl) | [3MF](../print-files/3mf/lamp_diffusor_bulges.3mf) |
+| Pumpkin | [STL](../print-files/stl/lamp_diffusor_pumpkin.stl) | [3MF](../print-files/3mf/lamp_diffusor_pumpkin.3mf) |
+| Seven ripple | [STL](../print-files/stl/lamp_diffusor_seven_ripple.stl) | [3MF](../print-files/3mf/lamp_diffusor_seven_ripple.3mf) |
+| Single sinusoidal bulge | [STL](../print-files/stl/lamp_diffusor_single_sinusoidal_bulge.stl) | [3MF](../print-files/3mf/lamp_diffusor_single_sinusoidal_bulge.3mf) |
+| Sinusoidal 12 bubbles | [STL](../print-files/stl/lamp_diffusor_sinusoidal_12_bubbles.stl) | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_12_bubbles.3mf) |
+| Sinusoidal 36 wave ×3 | [STL](../print-files/stl/lamp_diffusor_sinusoidal_36_wave_x3.stl) | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_36_wave_x3.3mf) |
+| Starburst | [STL](../print-files/stl/lamp_diffusor_starburst.stl) | [3MF](../print-files/3mf/lamp_diffusor_starburst.3mf) |
 
 ## Before slicing
 
