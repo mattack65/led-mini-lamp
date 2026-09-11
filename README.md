@@ -11,7 +11,7 @@ An open-source, 3D-printable LED lamp powered by WLED.
 - [Assembly](docs/assembly.md)
 - [WLED setup](docs/wled-setup.md)
 - [Troubleshooting](docs/troubleshooting.md)
-- [Bill of materials](bom.csv)
+- [Bill of materials](docs/bom.md)
 
 ## Project status
 

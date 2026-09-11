@@ -1,9 +1,0 @@
-Category,Part,Quantity,Specification,Notes,Source
-Electronics,ESP32 development board,1,"Small ESP32 board with USB port","Tested: LOLIN S2 Mini. ESP32-C3 Super Mini is planned for future builds. The board must fit inside the lamp base; boards larger than the S2 Mini may not fit. The USB port must remain accessible because it provides power and is used for setup.",
-Electronics,Addressable LED strip,1,"35 LEDs; 60 LEDs/m; WS2812B ECO; IP30","Tested: BTF-LIGHTING WS2812B ECO. 60 LEDs/m spacing is required. ECO LEDs keep the full-white load suitable for ordinary USB power.",BTF-LIGHTING
-Electronics,Hook-up wire,3 lengths,"AWG22; about 7 cm each","Enough for the maximum LED current of 1.12 A. One wire each for 5 V, GND, and data.",
-Consumables,Double-sided tape,about 2 cm,"Suitable for electronics","Holds the ESP32 to the base.",
-Consumables,Glue,a few drops,"Suitable for the printed parts","Glues the clip unit into the top plug.",
-Required but not supplied,USB cable and power adapter,1,"5 V; at least 1.5 A","Connects to the ESP32 USB port and powers the lamp. This is intentionally not included in the BOM because many builders already have a suitable cable and adapter.",
-Tools,Soldering iron,1,"Suitable for electronics soldering","Needed to make the six solder joints between the LED strip and ESP32.",
-Tools,Solder,as needed,"Electronics solder","Needed for the six solder joints between the LED strip and ESP32.",
