@@ -1,12 +1,12 @@
 # Printing the parts
 
 This page is the print plan for the LED Mini Lamp. Each part is supplied as an
-STL and, where available, as a 3MF slicer project. Prefer the 3MF when
-using a compatible slicer: it opens with the intended orientation and print
-recipe. Use the STL if your slicer does not support the 3MF.
+STL and, where available, as a 3MF slicer project. Both formats are already in
+the correct printing orientation.
 
-This is an early guide. Exact material and printer-setting notes will be added
-as the parts are documented.
+All parts are designed for a **0.4 mm nozzle**. **No supports or brims are
+needed**. A few bridges are present, but they are designed to print on almost
+any printer.
 
 ## Material
 
@@ -26,8 +26,9 @@ use the matching 3MF project where possible.
 - **0.28 mm draft** layer height is suitable; this part is not critical.
 - Use **15% infill or more**.
 
-- [STL: `lamp_core_structure.stl`](../print-files/stl/lamp_core_structure.stl)
-- [3MF: `lamp_core_structure.3mf`](../print-files/3mf/lamp_core_structure.3mf)
+| Part | STL | Print volume (X × Y × Z) | 3MF |
+| --- | --- | --- | --- |
+| Core structure | [STL](../print-files/stl/lamp_core_structure.stl) | 94 × 94 × 25 mm | [3MF](../print-files/3mf/lamp_core_structure.3mf) |
 
 ### Standard parts
 
@@ -38,10 +39,10 @@ Print one of each of these standard parts.
 - **0.28 mm draft** layer height is suitable; these parts are not critical.
 - Use **15% infill or more**.
 
-| Part | STL | 3MF |
-| --- | --- | --- |
-| Lamp base | [STL](../print-files/stl/lamp_base.stl) | [3MF](../print-files/3mf/lamp_base.3mf) |
-| Top plug | [STL](../print-files/stl/lamp_top_plug.stl) | [3MF](../print-files/3mf/lamp_top_plug.3mf) |
+| Part | STL | Print volume (X × Y × Z) | 3MF |
+| --- | --- | --- | --- |
+| Lamp base | [STL](../print-files/stl/lamp_base.stl) | 100 × 100 × 16 mm | [3MF](../print-files/3mf/lamp_base.3mf) |
+| Top plug | [STL](../print-files/stl/lamp_top_plug.stl) | 60 × 60 × 33.3 mm | [3MF](../print-files/3mf/lamp_top_plug.3mf) |
 
 ### Clip unit
 
@@ -54,8 +55,9 @@ dedicated 3MF project when possible.
 - **4 perimeters**
 - **100% infill**
 
-- [STL: `lamp_clip_unit.stl`](../print-files/stl/lamp_clip_unit.stl)
-- [3MF: `lamp_clip_unit.3mf`](../print-files/3mf/lamp_clip_unit.3mf)
+| Part | STL | Print volume (X × Y × Z) | 3MF |
+| --- | --- | --- | --- |
+| Clip unit | [STL](../print-files/stl/lamp_clip_unit.stl) | 15 × 36 × 6 mm | [3MF](../print-files/3mf/lamp_clip_unit.3mf) |
 
 ### Diffusors — choose one or more
 
@@ -74,21 +76,20 @@ the dedicated 3MF project when possible.
   0.20 mm layer height, this is **7 bottom layers**. Adjust the layer count if
   you use a different layer height.
 
-| Design | STL | 3MF |
-| --- | --- | --- |
-| Bulges | [STL](../print-files/stl/lamp_diffusor_bulges.stl) | [3MF](../print-files/3mf/lamp_diffusor_bulges.3mf) |
-| Pumpkin | [STL](../print-files/stl/lamp_diffusor_pumpkin.stl) | [3MF](../print-files/3mf/lamp_diffusor_pumpkin.3mf) |
-| Seven ripple | [STL](../print-files/stl/lamp_diffusor_seven_ripple.stl) | [3MF](../print-files/3mf/lamp_diffusor_seven_ripple.3mf) |
-| Single sinusoidal bulge | [STL](../print-files/stl/lamp_diffusor_single_sinusoidal_bulge.stl) | [3MF](../print-files/3mf/lamp_diffusor_single_sinusoidal_bulge.3mf) |
-| Sinusoidal 12 bubbles | [STL](../print-files/stl/lamp_diffusor_sinusoidal_12_bubbles.stl) | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_12_bubbles.3mf) |
-| Sinusoidal 36 wave ×3 | [STL](../print-files/stl/lamp_diffusor_sinusoidal_36_wave_x3.stl) | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_36_wave_x3.3mf) |
-| Starburst | [STL](../print-files/stl/lamp_diffusor_starburst.stl) | [3MF](../print-files/3mf/lamp_diffusor_starburst.3mf) |
+| Design | STL | Print volume (X × Y × Z) | 3MF |
+| --- | --- | --- | --- |
+| Bulges | [STL](../print-files/stl/lamp_diffusor_bulges.stl) | 102.7 × 102.7 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_bulges.3mf) |
+| Pumpkin | [STL](../print-files/stl/lamp_diffusor_pumpkin.stl) | 111.2 × 110.8 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_pumpkin.3mf) |
+| Seven ripple | [STL](../print-files/stl/lamp_diffusor_seven_ripple.stl) | 103.2 × 103.2 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_seven_ripple.3mf) |
+| Single sinusoidal bulge | [STL](../print-files/stl/lamp_diffusor_single_sinusoidal_bulge.stl) | 119.9 × 119.9 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_single_sinusoidal_bulge.3mf) |
+| Sinusoidal 12 bubbles | [STL](../print-files/stl/lamp_diffusor_sinusoidal_12_bubbles.stl) | 103.4 × 103.4 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_12_bubbles.3mf) |
+| Sinusoidal 36 wave ×3 | [STL](../print-files/stl/lamp_diffusor_sinusoidal_36_wave_x3.stl) | 104.1 × 104.1 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_36_wave_x3.3mf) |
+| Starburst | [STL](../print-files/stl/lamp_diffusor_starburst.stl) | 106.2 × 106.2 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_starburst.3mf) |
 
 ## Before slicing
 
-1. Start with the corresponding 3MF file if your slicer supports it.
-2. Check that the part remains in the supplied orientation and that it fits
-   within your printer's build volume.
-3. Apply the group-specific settings above if your slicer does not load them
-   from the 3MF project.
+1. Choose the STL or 3MF file for the part you want to print.
+2. Confirm that its listed print volume fits within your printer's build
+   volume.
+3. Apply the group-specific settings above.
 4. Use PLA as specified in the material notes above.
