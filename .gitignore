@@ -3,3 +3,5 @@ work/
 .vscode/
 *.elf
 *.map
+photos/*.[mM][oO][vV]
+photos/*.[mM][pP]4
