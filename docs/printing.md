@@ -1,4 +1,4 @@
-# Printing the parts
+# Printing the PLA parts
 
 This page is the print plan for the LED Mini Lamp. Each part is supplied as an
 STL and, where available, as a 3MF slicer project. Both formats are already in

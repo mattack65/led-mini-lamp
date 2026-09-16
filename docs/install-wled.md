@@ -1,4 +1,4 @@
-# Install WLED firmware
+# Installing WLED firmware
 
 This page installs WLED on the ESP32. Once WLED is running, continue with the
 [lamp-specific WLED setup](wled-setup.md).
