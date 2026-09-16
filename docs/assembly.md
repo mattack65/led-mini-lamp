@@ -4,11 +4,11 @@ This guide uses a LOLIN S2 Mini and a 35-LED WS2812B ECO strip. First install [W
 
 ## 1. Prepare the parts
 
-The printed parts are three core structures, a base, a top plug, a clip unit, and one diffusor. You will also need the controller, the LED strip, three short wires, double-sided tape, glue, and soldering equipment.
+The [printed parts](printing.md) are three core structures, a base, a top plug, a clip unit, and one diffusor. You will also need the controller, the LED strip, three short wires, double-sided tape, glue, and soldering equipment.
 
 <img src="../photos/IMG_4163.JPG" alt="Three printed core structures on the print plate." width="50%">
 
-Print three identical core structures.
+The core structures.
 
 <img src="../photos/IMG_4164.JPG" alt="The printed base, viewed from above." width="50%">
 
@@ -28,7 +28,7 @@ Choose one white-PLA diffusor for this lamp.
 
 <img src="../photos/IMG_4245.jpg" alt="All printed parts arranged before assembly." width="50%">
 
-Lay out the parts before starting; the three core structures form the black internal frame.
+All the 3D-printed parts.
 
 <img src="../photos/IMG_4246.jpg" alt="BTF-LIGHTING WS2812B ECO LED strip packaging." width="50%">
 
@@ -36,7 +36,7 @@ Use a 60 LEDs/m WS2812B ECO strip, as listed in the [BOM](bom.md).
 
 <img src="../photos/IMG_4248_1.PNG" alt="A 35-LED length marked on the LED strip." width="50%">
 
-Some LED strips have factory-soldered joins between sections. The red lines mark the folds required when fitting the strip, counted from the D in end. Before cutting a 35-LED section, check that no factory-soldered join will land on a fold. If it would, cut one or two LEDs from the start of the roll first, then choose the next 35-LED section.
+Some LED strips have factory-soldered joins between sections. The red lines mark the folds required when fitting the strip, counted from the "D in" end. Before cutting a 35-LED section, check that no factory-soldered join will land on a fold. If it would, cut one or two LEDs from the start of the roll first, then choose the next 35-LED section.
 
 <img src="../photos/IMG_4248.JPG" alt="Close-up of the LED strip." width="50%">
 
@@ -54,11 +54,11 @@ Join the three core structures to make the internal frame. Their circular rings 
 
 <img src="../photos/IMG_4255.JPG" alt="Side view of the joined core structures." width="50%">
 
-Check that the core sections sit fully together and that their rings form a smooth continuous spiral.
+Check that the core sections sit fully together.
 
 <img src="../photos/IMG_4256.JPG" alt="Test-fitting the clip unit into the top plug." width="50%">
 
-Test-fit the clip into the top plug before gluing it in. Make sure it is pressed all the way into the hole.
+Test-fit the clip into the top plug before gluing it in.
 
 <img src="../photos/IMG_4257.JPG" alt="The clip unit and a few drops of glue." width="50%">
 
