@@ -2,6 +2,13 @@
 
 An open-source, 3D-printable LED lamp powered by WLED.
 
+<p align="center">
+  <img src="photos/IMG_4160.JPG" alt="LED Mini Lamp with a colourful WLED effect." width="46%">
+  <img src="photos/IMG_4356.JPG" alt="LED Mini Lamp illuminated in green." width="46%">
+</p>
+
+<img src="photos/IMG_4363.jpg" alt="The seven available white PLA diffusor designs." width="100%">
+
 ## Start here
 
 - [Bill of materials](docs/bom.md)
