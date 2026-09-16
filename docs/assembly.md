@@ -284,4 +284,12 @@ Press the top plug down until it clicks into the base.
 
 Connect a 5 V USB supply rated for at least 1.5 A and choose a colour or effect in WLED.
 
+<img src="../photos/IMG_4356.JPG" alt="Completed LED mini lamp." width="50%">
+
+<img src="../photos/IMG_4150.jpg" alt="Completed LED mini lamp." width="50%">
+
+<img src="../photos/IMG_4160.JPG" alt="Completed LED mini lamp." width="50%">
+
+<img src="../photos/IMG_4161.JPG" alt="Completed LED mini lamp." width="50%">
+
 The lamp is ready to use. See [Using your lamp](using-your-lamp.md) for presets, effects, and schedules.
