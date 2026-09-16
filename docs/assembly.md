@@ -66,7 +66,7 @@ Use only a few drops of glue for the clip unit.
 
 <img src="../photos/IMG_4258.JPG" alt="The clip unit fitted into the top assembly." width="50%">
 
-Seat the clip unit squarely so that its two flexible arms point upward.
+Seat the clip unit squarely and press it all the way in. It should be flush.
 
 <img src="../photos/IMG_4260.JPG" alt="LED strip pads at the data-input end." width="50%">
 
@@ -118,7 +118,7 @@ The controller wiring is complete: red to VBUS, black to GND, and purple to GPIO
 
 <img src="../photos/IMG_4281_1.JPG" alt="Cutting the three wires to equal length." width="50%">
 
-Cut the free ends to the same length and arrange them in the correct order: red, black, purple.
+Cut the free ends to the same length and arrange them in the correct order: red, purple, black.
 
 ## 4. Solder the LED strip
 
@@ -158,11 +158,11 @@ Check that the wires are firmly attached.
 
 <img src="../photos/IMG_4310.jpg" alt="The controller connected to the LED strip." width="50%">
 
-The electrical assembly is now complete. Connect USB power briefly to confirm that the strip responds in WLED. With fresh WLED settings, the final five LEDs will probably stay off because the default is 30 LEDs. After configuring this lamp in WLED, the first and final two LEDs stay off as intended.
+The electrical assembly is now complete. Connect USB power briefly to confirm that the strip responds and the LEDs turn on. With fresh WLED settings, the final five LEDs will probably stay off because the default is 30 LEDs. After configuring this lamp in WLED, the first and final two LEDs stay off as intended.
 
 ## 5. Fold and fit the LED strip
 
-Start at the wired D in end and follow the route shown in the photos. Keep the backing paper on the long middle section: it stiffens the strip while it is fitted. The strip is folded **sharply** at each red line in the numbered photo above; it does not follow a smooth curve. Only the short adhesive sections at the beginning and end are exposed.
+Start at the wired D in end and follow the route shown in the photos. Keep the backing paper on the long middle section. The strip will be folded **sharply** at each red line in the numbered photo above. Only the short adhesive sections at the beginning and end are exposed.
 
 <img src="../photos/IMG_4311_1.JPG" alt="Cutting the backing paper near the D in end." width="50%">
 
@@ -174,15 +174,13 @@ Cut through the backing paper about 5 cm from the far end. Leave the backing on 
 
 <img src="../photos/IMG_4311_3.JPG" alt="Starting to route the LED strip through the core." width="50%">
 
-Start at the D in end and thread the strip into the core as shown. The wires lead down towards the base.
+Start at the unsoldered end and thread the strip into the core as shown.
 
 <img src="../photos/IMG_4312.jpg" alt="Routing the first section of strip through the core." width="50%">
 
 Guide the strip through the first section of the core, with the LEDs facing outward.
 
 <img src="../photos/IMG_4314.JPG" alt="Making a sharp fold in the LED strip." width="50%">
-
-At the next red mark, fold the strip sharply so it follows the change of level in the core.
 
 <img src="../photos/IMG_4316.JPG" alt="Routing the strip around the core." width="50%">
 
