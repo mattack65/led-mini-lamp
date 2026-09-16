@@ -134,7 +134,7 @@ A small amount of solder on each end is enough.
 
 <img src="../photos/IMG_4291.jpg" alt="LED-strip input pads highlighted." width="50%">
 
-Use the pads at the end marked D in; the arrows point away from this input end.
+The three pads are labelled +5V, D in, and GND. These are the pads to connect to the controller. Use the end marked D in; the arrows point away from this input end. If you solder the strip from the wrong end, it will not work later.
 
 <img src="../photos/IMG_4292.jpg" alt="Tinning an LED-strip pad." width="50%">
 
@@ -266,13 +266,13 @@ With fresh WLED settings, the final five LEDs will probably stay off because the
 
 Remove the tape backing and place the ESP32 in the base, with its USB port facing the opening in the edge.
 
-<img src="../photos/IMG_4342_1.JPG" alt="Lowering the core assembly into the base." width="50%">
-
-Lower the wired core assembly into the base. Keep the controller wires inside and make sure nothing is pinched.
-
 <img src="../photos/IMG_4342.JPG" alt="Core assembly seated in the base." width="50%">
 
-The core sits inside the rim of the base, with the USB connector still accessible.
+Lower the wired core assembly into the base. Keep the controller wires inside and make sure nothing is pinched. The core sits inside the rim of the base, with the USB connector still accessible.
+
+<img src="../photos/IMG_4342_1.JPG" alt="Detail of the controller and LED strip in the assembled base." width="50%">
+
+Check that the controller is secure and that its wires are clear of the rim before fitting the diffusor.
 
 ## 7. Fit the diffusor and finish the lamp
 
