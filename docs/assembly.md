@@ -182,47 +182,37 @@ Guide the strip through the first section of the core, with the LEDs facing outw
 
 <img src="../photos/IMG_4314.JPG" alt="Making a sharp fold in the LED strip." width="50%">
 
-Fold the strip sharply around that first bend, so that one LED remains on the other side.
-
 <img src="../photos/IMG_4316.JPG" alt="Routing the strip around the core." width="50%">
 
-Continue routing the strip around the core, keeping the backing paper on.
+Fold the strip sharply around that first bend, so that one LED remains on the other side.
 
 <img src="../photos/IMG_4317.JPG" alt="Bringing the wired end through the lower core." width="50%">
 
-Keep the wire connection at the lower end of the core so it can later reach the controller in the base.
-
 <img src="../photos/IMG_4322.JPG" alt="Holding the LED strip while making the next fold." width="50%">
 
-A small clip can hold the strip temporarily while you make the next sharp fold.
+A small clip can hold the strip temporarily while you place the LEDs.
 
 <img src="../photos/IMG_4323.JPG" alt="Fitting the LED strip around the next core ring." width="50%">
 
-Route the strip around the next ring, then fold it sharply at the next marked position.
+Route the strip around the first ring, then fold it sharply at the slot.
 
 <img src="../photos/IMG_4324.JPG" alt="Folding the LED strip through the core." width="50%">
 
-Make the fold at the red line and pass the strip through the core as shown.
+Pass the strip through the core as shown.
 
 <img src="../photos/IMG_4325.JPG" alt="LED strip positioned on the upper core ring." width="50%">
 
-Continue this fold-and-route pattern around the upper ring.
+It should look like this.
 
 <img src="../photos/IMG_4327.JPG" alt="Backing paper still on the long middle section." width="50%">
 
-Leave the backing paper on while routing the middle section of the strip.
+Continue this fold-and-route pattern around the next two rings.
 
 <img src="../photos/IMG_4328.JPG" alt="Making another sharp fold in the LED strip." width="50%">
 
-Make the next fold sharply, then guide the strip around the support.
-
 <img src="../photos/IMG_4329.JPG" alt="LED strip following the final core ring." width="50%">
 
-The strip now follows the final ring of the core.
-
 <img src="../photos/IMG_4330.JPG" alt="Routing the last part of the LED strip." width="50%">
-
-Guide the last part of the strip into place, with its LEDs facing outward.
 
 <img src="../photos/IMG_4331.JPG" alt="Completed routing of the LED strip around the core." width="50%">
 
@@ -232,19 +222,25 @@ The physical strip has 35 LEDs. The first and final two are attachment points; W
 
 At the far end, peel only the final 5 cm of backing paper and secure that last section.
 
-<img src="../photos/IMG_4333_1.JPG" alt="LED strip fitted inside the core." width="50%">
-
-Inspect the finished route from above. The middle backing paper should still be in place.
-
 <img src="../photos/IMG_4333.JPG" alt="Completed LED strip route viewed from below." width="50%">
 
-Check that each sharp fold is seated in the core and that the strip is not twisted.
+<img src="../photos/IMG_4333_1.JPG" alt="LED strip fitted inside the core." width="50%">
+
+Stick the last two LEDs on the inside.
 
 <img src="../photos/IMG_4334.jpg" alt="Final LED strip placement inside the core." width="50%">
 
-The completed strip is held by the core and by the short adhesive sections at both ends.
+Remove the backing paper at the beginning of the strip and tape that down too.
 
 ## 6. Test the LEDs and fit the controller into the base
+
+<img src="../photos/IMG_4337.jpg" alt="Testing the LED strip with USB power." width="50%">
+
+Before closing the lamp, connect USB power and confirm that the LED strip responds in WLED.
+
+<img src="../photos/IMG_4338.jpg" alt="The LED spiral lit for its first test." width="50%">
+
+With fresh WLED settings, the final five LEDs will probably stay off because the default is 30 LEDs. If you have already configured WLED, the first and final two LEDs stay off as intended.
 
 <img src="../photos/IMG_4335.jpg" alt="Cutting double-sided tape for the controller." width="50%">
 
@@ -253,14 +249,6 @@ Cut about 2 cm² of double-sided tape to hold the ESP32 in the base.
 <img src="../photos/IMG_4336.JPG" alt="Inside of the lamp base." width="50%">
 
 The base provides the mounting area for the controller and an opening for its USB port.
-
-<img src="../photos/IMG_4337.jpg" alt="Testing the LED strip with USB power." width="50%">
-
-Before closing the lamp, connect USB power and confirm that the LED strip responds in WLED.
-
-<img src="../photos/IMG_4338.jpg" alt="The LED spiral lit for its first test." width="50%">
-
-With fresh WLED settings, the final five LEDs will probably stay off because the default is 30 LEDs. After configuring this lamp, the first and final two LEDs stay off as intended.
 
 <img src="../photos/IMG_4341.JPG" alt="Placing the ESP32 in the base." width="50%">
 
@@ -272,7 +260,7 @@ Lower the wired core assembly into the base. Keep the controller wires inside an
 
 <img src="../photos/IMG_4342_1.JPG" alt="Detail of the controller and LED strip in the assembled base." width="50%">
 
-Check that the controller is secure and that its wires are clear of the rim before fitting the diffusor.
+Push the core all the way down onto the base.
 
 ## 7. Fit the diffusor and finish the lamp
 
