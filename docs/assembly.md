@@ -182,6 +182,8 @@ Guide the strip through the first section of the core, with the LEDs facing outw
 
 <img src="../photos/IMG_4314.JPG" alt="Making a sharp fold in the LED strip." width="50%">
 
+Fold the strip sharply around that first bend, so that one LED remains on the other side.
+
 <img src="../photos/IMG_4316.JPG" alt="Routing the strip around the core." width="50%">
 
 Continue routing the strip around the core, keeping the backing paper on.
