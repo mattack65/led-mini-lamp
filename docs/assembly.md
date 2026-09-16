@@ -270,24 +270,18 @@ Lower your chosen diffusor evenly over the LED structure.
 
 <img src="../photos/IMG_4344.jpg" alt="Seating the diffusor on the base." width="50%">
 
-Press gently until the diffusor sits flat on the base.
-
 <img src="../photos/IMG_4345.jpg" alt="Diffusor fitted over the lamp frame." width="50%">
-
-The central opening remains accessible for the top plug.
 
 <img src="../photos/IMG_4346.jpg" alt="Placing the top plug." width="50%">
 
-Set the top plug into the central opening.
+Place the top plug into the central opening. It is keyed; turn it until it fits.
 
 <img src="../photos/IMG_4347.jpg" alt="Top plug fitted." width="50%">
 
-Press the top plug home so it sits flush and retains the assembly.
+Press the top plug down until it clicks into the base.
 
 <img src="../photos/IMG_4349.jpg" alt="Finished lamp illuminated." width="50%">
 
 Connect a 5 V USB supply rated for at least 1.5 A and choose a colour or effect in WLED.
-
-<img src="../photos/IMG_4350.jpg" alt="Completed LED mini lamp." width="50%">
 
 The lamp is ready to use. See [Using your lamp](using-your-lamp.md) for presets, effects, and schedules.
