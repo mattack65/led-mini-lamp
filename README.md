@@ -9,7 +9,6 @@ An open-source, 3D-printable LED lamp powered by WLED.
 
 <p align="center">
   <img src="photos/wled-effect-candidate-03.gif" alt="Third WLED-effect candidate." width="46%">
-  <img src="photos/wled-effect-candidate-04.gif" alt="Fourth WLED-effect candidate." width="46%">
 </p>
 
 <p align="center">
