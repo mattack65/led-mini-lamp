@@ -3,8 +3,17 @@
 An open-source, 3D-printable LED lamp powered by WLED.
 
 <p align="center">
-  <img src="photos/wled-effect-1.gif" alt="LED Mini Lamp showing a moving WLED colour effect." width="46%">
-  <img src="photos/wled-effect-2.gif" alt="LED Mini Lamp showing a second moving WLED colour effect." width="46%">
+  <img src="photos/wled-effect-candidate-01.gif" alt="First WLED-effect candidate." width="46%">
+  <img src="photos/wled-effect-candidate-02.gif" alt="Second WLED-effect candidate." width="46%">
+</p>
+
+<p align="center">
+  <img src="photos/wled-effect-candidate-03.gif" alt="Third WLED-effect candidate." width="46%">
+  <img src="photos/wled-effect-candidate-04.gif" alt="Fourth WLED-effect candidate." width="46%">
+</p>
+
+<p align="center">
+  <img src="photos/wled-effect-candidate-05.gif" alt="Fifth WLED-effect candidate." width="46%">
 </p>
 
 <p align="center">
