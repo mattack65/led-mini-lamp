@@ -85,6 +85,10 @@ the dedicated 3MF project when possible.
 | Sinusoidal 36 wave ×3 | [STL](../print-files/stl/lamp_diffusor_sinusoidal_36_wave_x3.stl) | 104.1 × 104.1 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_sinusoidal_36_wave_x3.3mf) |
 | Starburst | [STL](../print-files/stl/lamp_diffusor_starburst.stl) | 106.2 × 106.2 × 50 mm | [3MF](../print-files/3mf/lamp_diffusor_starburst.3mf) |
 
+<img src="../photos/IMG_4363.jpg" alt="All seven available lamp diffusor designs." width="100%">
+
+The seven available designs. Back/top row, from left to right: Seven ripple, Bulges, Pumpkin, and Starburst. Front row, from left to right: Single sinusoidal bulge, Sinusoidal 36 wave ×3, and Sinusoidal 12 bubbles.
+
 ## Estimated print resources
 
 Measured on a **Prusa Core One L** using the supplied 3MF projects. The total
