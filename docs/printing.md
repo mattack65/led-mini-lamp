@@ -43,6 +43,9 @@ Print one of each of these standard parts.
 | Lamp base | [STL](../print-files/stl/lamp_base.stl) | 100 × 100 × 16 mm | [3MF](../print-files/3mf/lamp_base.3mf) |
 | Top plug | [STL](../print-files/stl/lamp_top_plug.stl) | 60 × 60 × 33.3 mm | [3MF](../print-files/3mf/lamp_top_plug.3mf) |
 
+The top plug's 3MF uses **6 bottom layers** to block light from the LEDs
+when printed in white PLA.
+
 ### Clip unit
 
 The clip uses a finer, stronger print recipe than the standard parts. Open the
@@ -104,3 +107,17 @@ and printer.
 | Lamp base | 27.84 g | 9.34 m | 27 min | €0.68 |
 | Diffusor (one) | 18.08 g | 6.06 m | 49 min | €0.44 |
 | **Total** | **100.70 g** | **33.75 m** | **2 h 47 min** | **€2.47** |
+
+## Additional print options
+
+For a taller **five-layer lamp**, use the five-layer Bulges diffusor and the
+matching longer top plug in place of their standard versions.
+
+For an **ESP32-C3 Super Mini**, choose the modified base with a small cage that
+holds the board in place.
+
+| Part | STL | 3MF |
+| --- | --- | --- |
+| Bulges diffusor — five layers | [STL](../print-files/stl/lamp_diffusor_bulges_5_layers.stl) | [3MF](../print-files/3mf/lamp_diffusor_bulges_5_layers.3mf) |
+| Longer top plug — five layers | [STL](../print-files/stl/lamp_top_plug_5_layers.stl) | [3MF](../print-files/3mf/lamp_top_plug_5_layers.3mf) |
+| Base — C3 Super Mini | [STL](../print-files/stl/lamp_base_c3_super_mini.stl) | [3MF](../print-files/3mf/lamp_base_c3_super_mini.3mf) |
