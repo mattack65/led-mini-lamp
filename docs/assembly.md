@@ -4,7 +4,7 @@ This guide uses a LOLIN S2 Mini and a 35-LED WS2812B ECO strip. First install [W
 
 ## 1. Prepare the parts
 
-The [printed parts](printing.md) are three core structures, a base, a top plug, a clip unit, and one diffusor. You will also need the controller, the LED strip, three short wires, double-sided tape, glue, and soldering equipment.
+The [printed parts](printing.md) are three core structures, a base, a top plug, a clip unit, and one diffusor. You will also need the controller, the LED strip, three short wires, double-sided VHB tape, glue, and soldering equipment.
 
 <img src="../photos/IMG_4163.JPG" alt="Three printed core structures on the print plate." width="50%">
 
@@ -242,9 +242,9 @@ Before closing the lamp, connect USB power and confirm that the LED strip respon
 
 With fresh WLED settings, the final five LEDs will probably stay off because the default is 30 LEDs. If you have already configured WLED, the first and final two LEDs stay off as intended.
 
-<img src="../photos/IMG_4335.jpg" alt="Cutting double-sided tape for the controller." width="50%">
+<img src="../photos/IMG_4335.jpg" alt="Cutting double-sided VHB tape for the controller." width="50%">
 
-Cut about 2 cm² of double-sided tape to hold the ESP32 in the base.
+Cut about 2 cm² of double-sided VHB tape to hold the ESP32 in the base.
 
 <img src="../photos/IMG_4336.JPG" alt="Inside of the lamp base." width="50%">
 
